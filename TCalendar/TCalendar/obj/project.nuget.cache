@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jaUIGqeA7PlPZo6ITf/b2Q6v37KGythMLzYzIKBe0uhWidEqgRtyyeVxzMqWlzeRHFIQH/J+S6V+ZcQ1Dqc3jQ==",
+  "success": true,
+  "projectFilePath": "C:\\Calendar\\TCalendar\\TCalendar\\TCalendar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phamt\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\phamt\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\phamt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\phamt\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
